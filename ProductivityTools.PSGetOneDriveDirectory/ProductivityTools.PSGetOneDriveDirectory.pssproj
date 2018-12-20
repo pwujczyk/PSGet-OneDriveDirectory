@@ -29,8 +29,8 @@
   </PropertyGroup>
   <ItemGroup />
   <ItemGroup>
-    <Compile Include="Get-OneDriveDirectory.psd1" />
-    <Compile Include="Get-OneDriveDirectory.psm1" />
+    <Compile Include="ProductivityTools.PSGetOneDriveDirectory.psd1" />
+    <Compile Include="ProductivityTools.PSGetOneDriveDirectory.psm1" />
     <Compile Include="Runner.ps1" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
