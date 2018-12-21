@@ -1,5 +1,5 @@
 ﻿[![Github](http://cdn.productivitytools.tech/Github40px.png)](https://github.com/pwujczyk/ProductivityTools.PSGetOneDriveDirectory/)
- [![PowershellGallery](http://www.productivitytools.tech/wp-content/uploads/2018/12/Powershell40px.png)](http://www.wp.pl/)
+ [![PowershellGallery](http://cdn.productivitytools.tech/Powershell40px.png)](http://www.wp.pl/)
  
  
  
