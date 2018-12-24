@@ -13,7 +13,7 @@ To return directory path module searches through registry.
 
 - Get-OneDriveDirectory
 
-- Get-OneDriveDirectory -Personal
+- Get-OneDriveDirectory -Personalj
 
 - Get-OneDriveDirectory -Business
 
