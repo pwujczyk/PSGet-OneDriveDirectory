@@ -14,6 +14,7 @@
  
  # Get-OneDriveDirectory
 Get-OneDriveDirectory returns location of the OneDrive files.
+<!--more-->
 
 We could have on the computer two OneDrive’s one Personal and second one Corporate (Business). Script by default returns both, but we could use switch parameter to precise our request.
 
@@ -27,6 +28,8 @@ Get-OneDriveDirectory -Personal -JustDirectory
 Get-OneDriveDirectory -Business -JustDirectory
 Get-OneDriveDirectory -JustDirectory
 ````
+
+<!--og-image-->
 ![GetOneDriveDirectory](Images/GetOneDriveDirectory.png)
 
 Information about OneDrive accounts is stored in
