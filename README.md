@@ -12,7 +12,7 @@
 
  
  
- # Get-OneDriveDirectory
+# Get-OneDriveDirectory
 Get-OneDriveDirectory returns location of the OneDrive files.
 <!--more-->
 
